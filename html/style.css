@@ -1,0 +1,39 @@
+body {
+    margin: 150px;
+    background: #F4F1F8;
+  }
+
+  table, td, th {
+    border: 2px solid grey;
+    border-collapse: collapse;
+ }
+
+
+form {
+    max-width: 400px;
+}
+
+ caption {
+    border: 2px solid grey;
+    border-bottom-style: none;
+ }
+
+ul {
+    cursor: pointer;
+}
+
+ li {
+     color: red;
+ }
+
+ ::marker {
+     color: blue;
+ }
+
+ legend {
+     font-size: large;
+ }
+
+ #login {
+     margin-left: 23px;
+ }
